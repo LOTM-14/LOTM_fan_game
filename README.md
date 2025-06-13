@@ -11,7 +11,7 @@ Conversão para markdown feita pelo gpt ainda falta revisão, para verificar se 
 ---
 
 # Gênero
-**Combate por turnos, exploração, PvP e PvE, câmera em 3ª pessoa por cima**
+**Combate por turnos, exploração, PvP e PvE, câmera em 3ª pessoa por cima e 3°pessoa padrão durante combate**
 
 **Trabalhos futuros:**  
 Combate por turno dinâmico (com mais interações entre os turnos e diversas mecânicas de movimentações e uso de poderes)
@@ -52,14 +52,14 @@ Combate por turno dinâmico (com mais interações entre os turnos e diversas me
 - **Força**
 - **QI**
   - Determina as capacidades de análise dos poderes e físicos dos adversários.
-  - Análise de poderes fornece conhecimento e, para algumas sequências, a capacidade de replicação, roubo, etc.
-  - Análise do físico fornece os pontos fracos do inimigo.
-  - Determina a precisão dos ataques.
+   - Análise de poderes fornece conhecimento e, para algumas sequências, a capacidade de replicação, roubo, etc.
+   - Análise do físico fornece os pontos fracos do inimigo.
+   - Determina a precisão dos ataques.
 - **Barra de Digestão**
 - **Agilidade**
   - Influencia o tempo para tomada de decisão.  
     (1 ponto = 0,2 segundo acrescentados)
-  - Habilidades de esquiva
+  - Probabilidade de esquiva
 - **Sorte**
   - Influencia o drop e as habilidades de esquiva
 - **Velocidade**
