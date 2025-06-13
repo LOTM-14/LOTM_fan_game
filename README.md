@@ -536,45 +536,18 @@ Cada monstro pode gerar partes com identificação clara de origem, como:
 
 ---
 
-### Tabela: Classificação por GOO e Sequência
-
-| Nome do Monstro         | GOO Associado        | Sequência | Tipo                |
-|-------------------------|----------------------|-----------|---------------------|
-| Ceifador do Vazio       | GOO do Caos Silente  | 6         | Espírito / Abissal  |
-| Hálito do Olho Dourado  | GOO do Conhecimento  | 8         | Espiritual / Ar      |
-| Carniçal Estelar        | GOO da Insanidade    | 4         | Físico / Sanguíneo   |
-| Urro da Morte Negra     | GOO da Corrupção     | 3         | Sombra / Veneno      |
-| Vigia do Umbral         | GOO do Vácuo         | 7         | Psíquico / Guardião  |
-| Pastor das Cinzas       | GOO da Ruína         | 5         | Fogo / Espiritual    |
-| Engrenagem Sombria       | GOO do Tempo Partido | 9         | Mecânico / Psíquico  |
-| Gritador de Ossos       | GOO da Dor Eterna    | 2         | Físico / Necro       |
-| Testemunha da Fenda     | GOO do Abismo Vivo   | 1         | Tentacular / Éter    |
-| Guardião do Cisma       | GOO do Juízo Fractal | 8         | Dimensional / Defesa |
-
 > ⚠️ **Nota**: aproximadamente 90 criaturas deverão ser criadas no total.  
 > Referência da lista completa de monstros: [Link](#) *(substituir pelo link real)*
 
 ---
 
-### Sugestão: 10 Monstros com Temática GOO
-
-1. **Vidente da Carne Gritante**
-2. **Portador do Selo Esquecido**
-3. **Teia da Realidade Rachada**
-4. **Sussurrador dos Cristais Vivos**
-5. **Aquele que Chora Espelhos**
-6. **Ceifeiro do Eco Final**
-7. **Condutor do Sangue Cego**
-8. **Noiva do Vácuo Escarlate**
-9. **Ermitão do Tempo Derretido**
-10. **Anfitrião do Sonho Partido**
 
 ---
 
 # Deuses
 
 - Cada **sequência** terá um **Deus correspondente** e um grupo subordinado.
-- Lista oficial: [Google Docs - Lista de Deuses]
+- Lista : https://github.com/LOTM-14/LOTM_fan_game/blob/main/LOTM_fan_game_Gods.md
 
 ---
 
