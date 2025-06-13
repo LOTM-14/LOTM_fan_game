@@ -1,3 +1,5 @@
+Conversão para markdown feita pelo gpt ainda falta revisão, para verificar se está de acordo com as ideias originais
+
 # Nome
 **Paths to the Divine**
 
